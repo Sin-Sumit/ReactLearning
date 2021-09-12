@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import {values} from './list';
+import {values} from './list'; //import the list.js file.
 // Can create variable outside the component and use it in component.
 const title = 'Hello, World!!';
 const author = 'Sumit Singh';
